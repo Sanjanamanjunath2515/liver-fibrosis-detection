@@ -39,3 +39,10 @@ This project uses deep learning to detect and classify liver fibrosis stages (F0
 | F4    | 92%                |
 
 *Note: Replace these with your actual results.*
+
+## 📥 Download Trained Model
+
+You can download the trained PyTorch model from the link below:
+
+[📥 Click here to download best_model.pth](https://drive.google.com/drive/folders/1Ffo5Kb8M20Hp91xxzPSeUhJhXFXnlcjR?usp=drive_link)
+
